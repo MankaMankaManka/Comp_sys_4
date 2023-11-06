@@ -113,7 +113,6 @@ int convertCharToIndex(char ch) {
         return ch - '0';
     }
 }
-
 int main() {
     std::string countryData, buildData, destroyData;
 
